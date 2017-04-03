@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "blog.html",
     "name": "Bliing | Home",
     "theme": {
       "name": "mobirise3",
@@ -28,12 +28,7 @@
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
-    "screenshot": "screenshot.png",
-    "publishFtpPath": "public_html",
-    "publishType": "github",
-    "publishPath": "@PROJECT_PATH@",
-    "gitHubName": "squibbler",
-    "gitHubPath": "mobirise"
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -79,13 +74,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#deaa05"
+              "background": "#a8a8a8"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#fac10d!important"
+              "background": "#b9b9b9!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#fac51c"
+              "background": "#c1c1c1"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -104,7 +99,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-3v",
           "_params": {
-            "bgColor": "#fac51c",
+            "bgColor": "#c1c1c1",
             "fontSize": "1.05",
             "fontName": {
               "name": "Lato",
@@ -189,7 +184,7 @@
             "showButtons": false
           },
           "title": "<br><br><span style=\"line-height: 1.1;\">squibbler</span><br>",
-          "text": "<span style=\"line-height: 1.5;\">the website</span><br><span style=\"line-height: 1.5;\">squibbler.github.io/mobirise</span><br><span style=\"line-height: 1.5;\">Twitter: @squibbler5<br></span>Instagram:@squibbler5<br><span style=\"line-height: 1.5;\">A site hosted on Github<br></span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br>",
+          "text": "<span style=\"line-height: 1.5;\">the website</span><br><span style=\"line-height: 1.5;\">www.squibbler.github.io/online</span><br><span style=\"line-height: 1.5;\">Twitter: @squibbler5<br></span>Instagram:@squibbler5<br><span style=\"line-height: 1.5;\">A site hosted on Github<br></span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a>"
         },
         {
@@ -597,13 +592,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#deaa05"
+              "background": "#a8a8a8"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#fac10d!important"
+              "background": "#b9b9b9!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#fac51c"
+              "background": "#c1c1c1"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -622,7 +617,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-4g",
           "_params": {
-            "bgColor": "#fac51c",
+            "bgColor": "#c1c1c1",
             "fontSize": "1.05",
             "fontName": {
               "name": "Lato",
